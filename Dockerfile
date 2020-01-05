@@ -1,5 +1,5 @@
 #use a node base image
-From node:7 -onbuild
+From node:7-onbuild
 
 #Set maintainance
 LABEL maintainer "miiro@getintodevops.com"
